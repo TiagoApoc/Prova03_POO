@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Principal",
+            "request": "launch",
+            "mainClass": "br.com.fabrica.Principal",
+            "projectName": "Prova03_POO_e21e6c8"
+        }
+    ]
+}
